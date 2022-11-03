@@ -1,0 +1,38 @@
+.navbar {
+    /* border: 5px groove goldenrod; */
+    background-color: black;
+    height: 70px;
+    position: sticky;
+    top: 0%;
+    z-index: 1;
+  }
+  span {
+    color: white;
+    position: relative;
+    left: 1000px;
+    top: 2px;
+    margin: 10px;
+    font-size: 17px;
+    text-transform: uppercase;
+  
+  }
+  .navbar>span>a {
+    color: white;
+    text-decoration: none;
+    font-family:serif;
+  
+  }
+  .navbar>span>a:hover{
+    background-color: goldenrod;
+    padding:5px;
+    border-radius: 5px;
+  }
+  .logoimg {
+    border-radius: 20px;
+    border: 1px;
+    position: relative;
+    left: 150px;
+    top: 14px;
+    width: 100px;
+    height: 40px;
+  }

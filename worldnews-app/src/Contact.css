@@ -1,0 +1,289 @@
+* {
+    margin: 0;
+    padding: 0;
+
+}
+
+.cnct-background-img {
+    background-color: #14008b;
+    border-radius: 0%;
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 1540px;
+    height: 100vh;
+    opacity: 0.7;
+}
+
+.cnct-background2-img {
+    border-radius: 7px;
+    width: 477px;
+    height: 495px;
+    position: relative;
+    left: -2px;
+    top: -307px;
+    opacity: 0.8;
+}
+
+.cupimg {
+    box-shadow: 0px 5px 15px blue;
+    position: relative;
+    top: -764px;
+    left: 594px;
+    width: 214px;
+    height: 196px;
+    border-radius: 300px;
+    opacity: 0.9;
+}
+
+.formcard {
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 90vh;
+    overflow: hidden;
+
+}
+
+.formcard  >  h2 {
+    color: black;
+    position: relative;
+    left: 80px;
+    top: -1099px;
+    font-size: 60px;
+    width: 310px;
+}
+
+
+.row {
+    position: relative;
+    left: -435px;
+    top: -1075px;
+    opacity: 0.9;
+    font-weight: 800;
+    color: black;
+    
+
+}
+
+.col {
+    /* box-shadow: 0px 5px 10px black; */
+    /* width: 300px; */
+    margin-bottom: 40px;
+    display: flex;
+    justify-content: center;
+    position: relative;
+    left: -100px;
+}
+
+.form-group {
+    box-shadow: 0px 5px 20px black;
+    width: 300px;
+    height: 30px;
+    border-radius: 5px;
+    color: black;
+    font-weight: 800;
+    position: relative;
+    top: -2px;
+    font-size: 15px;
+}
+
+
+.form-group2 {
+    box-shadow: 0px 5px 20px black;
+    width: 300px;
+    height: 80px;
+    border-radius: 5px;
+    color: black;
+    font-weight: 600;
+    font-size: 18px;
+}
+
+
+.form-groupbtn {
+    width: 130px;
+    height: 30px;
+    position: relative;
+    top: 45px;
+    font-size: 20px;
+    font-weight: bold;
+    border-radius: 5px;
+    background-color: #dbdbdb;
+    cursor: pointer;
+    color: black;
+}
+
+.form-groupbtn:hover {
+    color: blue;
+    text-decoration: underline;
+    /* opacity: 0.7; */
+}
+
+
+.followus {
+    /* background-color: white;
+    border-radius: 6px;
+    opacity: 0.7; */
+    /* border: 2px dashed   blue; */
+    background-image: url();
+    width: 430px;
+    /* height: 185px; */
+    /* padding-bottom: 30px; */
+    position: relative;
+    top: -1500px;
+    left: 560px;
+    font-size: 25px;
+    text-decoration: double;
+    color: black;
+}
+
+.followus>.followusheading {
+    color: black;
+    position: relative;
+    top: -10px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.contact {
+    background-color: white;
+    border: 5px groove goldenrod;
+    border-radius: 15px;
+    width: 370px;
+    height: 440px;
+    position: relative;
+    top: 50px;
+    left: 490px;
+}
+
+.contact1 {
+    /* border: 5px inset goldenrod; */
+    background-color: rgb(169 127 171);
+    /* animation-name:contactform;
+    animation-duration:10s;
+    animation-iteration-count: infinite; */
+
+    border-radius: 7px;
+    width: 185px;
+    height: 38px;
+    font-weight: bolder;
+    position: relative;
+    left: 90px;
+    top: 7px;
+
+}
+
+.contactform {
+    background-color: #a8c562;
+    /* animation-name:contactform;
+    animation-duration:10s;
+    animation-iteration-count: infinite; */
+
+    color: black;
+    border: 4px ridge gold;
+    height: 330px;
+    border-radius: 15px;
+    width: 270px;
+    position: relative;
+    right: 45px;
+    top: -15px;
+
+}
+
+
+.formelements {
+    position: relative;
+    left: 30px;
+    padding: 20px;
+
+
+}
+
+.cnctbutton {
+    width: 100px;
+    height: 30px;
+    position: relative;
+    top: 7px;
+    left: -30px;
+    background-color: black;
+    /* animation-name:contactform;
+    animation-duration:10s;
+    animation-iteration-count: infinite; */
+    color: white;
+    border-radius: 5px;
+}
+
+.cnctbutton:hover {
+    color: goldenrod;
+    border-radius: 15px;
+}
+
+.cnctbutton2 {
+    width: 100px;
+    height: 30px;
+    position: relative;
+    top: 7px;
+    left: 10px;
+    /* background-color:black ; */
+    animation-name: contactform;
+    animation-duration: 10s;
+    animation-iteration-count: infinite;
+    animation-direction: reverse;
+    color: white;
+    border-radius: 5px;
+}
+
+.cnctbutton2:hover {
+    color: goldenrod;
+    border-radius: 15px;
+}
